@@ -1,2 +1,12 @@
 # Simone.Gallucci
-Sito personale
+Sito personale.
+
+- index.html
+    - nav
+        - titolo
+        - link(altre pagine)
+    - body
+        - div(descrizione)
+        - div(contatti)
+    - footer
+        - p(firma)
